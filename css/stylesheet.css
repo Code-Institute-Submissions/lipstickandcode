@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    padding: 10px 80px;
   }
 
 header {
@@ -74,6 +75,9 @@ ul.branches li a:hover {
     transition: all .3s ease;
 }
 
+.row-title {
+  background-color: pink;
+}
   
 .mission-container {
   background-color: white;
@@ -107,7 +111,7 @@ footer .insta {
   transition: all .3s ease;
 }
 
-/* Dropdown Button Test */
+/* Dropdown Button in Nav Bar */
 
 .navigation a:hover, .dropdown:hover .dropbtn {
   /* background-color: lightpink; */

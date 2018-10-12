@@ -4,7 +4,7 @@ Old Learning Portal (LMS)
 Stream 1 project - Front End only
 
 
-Visit my website [here](TODO: add Github Pages link)
+Visit my website [here](https://coffeeipsum.github.io/lipstickandcode)
 
 
 
