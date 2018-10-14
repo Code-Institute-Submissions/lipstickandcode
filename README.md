@@ -6,6 +6,7 @@ This is the Stream 1 project - Front End only.
 ## Project: "Lipstick & Code"
 
 This page is to inform and encourage women of all ages to code.
+
 Visit my website [here](https://coffeeipsum.github.io/lipstickandcode/)
 
 ## Technologies Used
@@ -32,8 +33,6 @@ Visit my website [here](https://coffeeipsum.github.io/lipstickandcode/)
 ## Known Limitations/Issues 
 - in Stream 1 we did not learn how to wire a Contact form to a server. This means 
 - that the 'submit' button on the Contact form won't work. That's expected.
-- Using CSS3 animations not displayed on older browsers (although they aren't important to the functionality of the game)
-
 
 
 
