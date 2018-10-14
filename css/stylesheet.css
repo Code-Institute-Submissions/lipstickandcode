@@ -38,7 +38,7 @@ header {
 nav.navigation ul {
     display: flex;
     flex-flow: row nowrap;
-    justify-content: flex-end;
+    justify-content: flex;
     align-items: center;
 }
 
@@ -90,24 +90,30 @@ ul.branches li a:hover {
   color:rgb(245,20,92);
 }
 
+
 .content {
-  padding-left: 2rem;
+    padding: 10px 30px;
 }
 
 
-footer .insta {
+footer {
   display: flex;
   flex-flow: row nowrap;
-  justify-content: flex-end;
+  justify-content: center;
   align-items: center;
 }
+
+ footer > div {
+   margin: 10px;
+   
+ }
 
 .insta.linked.facebook a:hover {
   display: flex;
   flex-flow: row;
   justify-content: flex-end;
   align-items: center;
-  color: rgb(85, 85, 85);
+  color: rgb(245,20,92);
   transition: all .3s ease;
 }
 
@@ -148,16 +154,13 @@ footer .insta {
 /*  ------------------------------------- */
 /*        styles for Role Model          */
 
-.content {
-    padding: 10px 30px;
+
+
+.carousel-item {
+  height: 500px;
 }
 
 
-
-.item {
-  height: 600px;
-}
-  
 .row img {
   max-width: 100%;
 }

@@ -6,13 +6,14 @@ Stream 1 project - Front End only
 
 Visit my website [here](https://coffeeipsum.github.io/lipstickandcode)
 
-
+TODO: WHEN FINAL: activate Github pages (again)
 
 ## Technologies Used
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [JavaScript](https://www.javascript.com/)
 - [Bootstrap 4.1.2](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+- [Bootstrap Carousel](https://getbootstrap.com/docs/4.1/components/carousel/)
 
 
 ## Testing 
