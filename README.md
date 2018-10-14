@@ -1,12 +1,12 @@
 # Hello World!
-Welcome to 
-Old Learning Portal (LMS) 
-Stream 1 project - Front End only
+Welcome to my first front end web page.
+Please note that I followed the learning path on the old Learning Portal (LMS). 
+This is the Stream 1 project - Front End only.
 
+## Project: "Lipstick & Code"
 
-Visit my website [here](https://coffeeipsum.github.io/lipstickandcode)
-
-TODO: WHEN FINAL: activate Github pages (again)
+This page is to inform and encourage women of all ages to code.
+Visit my website [here](https://coffeeipsum.github.io/lipstickandcode/)
 
 ## Technologies Used
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
@@ -17,24 +17,21 @@ TODO: WHEN FINAL: activate Github pages (again)
 
 
 ## Testing 
-- Manual
+- Manual only
 
 ## Testing Procedure
 
 ### Manual Testing
-
-- used Developer Tools in browser to test smaller view-ports and mobile responsiveness
-
-- Try to create a new recipe and select an existing Author Name
-- Nav Bar items
-- Click on Logo (redirect Home)
+- Try and click on each Nav Bar item
+- Click on Logo (this should redirect the user to "Home")
 - Contact > Drop-down: select each items
-- Social icons >> test redirect (open new tab)
+- Social icons in Footer>> test redirect (open new tab)
+- on Role Models: try and click the 'next' and previous buttons on Carousel
 
 
-## Known Limitations/Issues
-
-
+## Known Limitations/Issues 
+- in Stream 1 we did not learn how to wire a Contact form to a server. This means 
+- that the 'submit' button on the Contact form won't work. That's expected.
 - Using CSS3 animations not displayed on older browsers (although they aren't important to the functionality of the game)
 
 
@@ -43,4 +40,5 @@ TODO: WHEN FINAL: activate Github pages (again)
 **Thank you for visiting my site!**
 
 Best wishes,
+
 Annie
